@@ -25,7 +25,8 @@
   },
   "dependencies": {
     "pino": "^5.13.0",
-    "pino-multi-stream": "^4.1.0"
+    "pino-multi-stream": "^4.1.0",
+    "pino-pretty": "^3.2.0"
   },
   "devDependencies": {
     "eslint": "^6.0.1",
