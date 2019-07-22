@@ -20,9 +20,6 @@
   "bugs": {
     "url": "https://github.com/taotiejs/taotie-logger/issues"
   },
-  "bin": {
-    "taotie": "cli.js"
-  },
   "scripts": {
     "lint": "eslint --fix *.js lib/**/*.js"
   },
