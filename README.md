@@ -27,6 +27,9 @@ logger.configuer({
   },
   udp: process.env.NODE_ENV == 'production',
   serializers: {},
+  recognizer(logArguments) {
+    return logArguments;
+  }
 });
 ```
 
